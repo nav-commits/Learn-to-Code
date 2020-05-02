@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+
+/* header section */
+
+header{
+    padding-top :120px;
+    margin-left: 5px;
+}
+
+h1 {
+    color:white;
+    font-family: 'Poppins',
+    sans-serif;
+    width: 400px;
+}
+
+.para-one {
+
+   font-family: 'Poppins',
+   sans-serif;
+
+   color:white;
+
+   width: 420px;
+   font-size: 12px;
+
+}
